@@ -5,21 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Rock-Genre-in-USA</title>
+<title>Final-Report</title>
 <meta name="generator" content="Jekyll v3.9.3" />
-<meta property="og:title" content="Rock-Genre-in-USA" />
+<meta property="og:title" content="Final-Report" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://miccolivito.github.io/Rockusa/" />
-<meta property="og:url" content="https://miccolivito.github.io/Rockusa/" />
-<meta property="og:site_name" content="Rock-Genre-in-USA" />
+<link rel="canonical" href="https://miccolivito.github.io/reportfinale-/" />
+<meta property="og:url" content="https://miccolivito.github.io/reportfinale-/" />
+<meta property="og:site_name" content="Final-Report" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Rock-Genre-in-USA" />
+<meta property="twitter:title" content="Final-Report" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"Rock-Genre-in-USA","name":"Rock-Genre-in-USA","url":"https://miccolivito.github.io/Rockusa/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"Final-Report","name":"Final-Report","url":"https://miccolivito.github.io/reportfinale-/"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/Rock-Genre-in-USA/assets/css/style.css?v=ae0c1a4831581d33b4e708ed3e844dbe3372bdbd">
+    <link rel="stylesheet" href="/Final-Report/assets/css/style.css?v=ae0c1a4831581d33b4e708ed3e844dbe3372bdbd">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -27,7 +27,7 @@
 
 
 <!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/Rock-Genre-in-USA/favicon.ico" -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/Final-Report/favicon.ico" -->
 
 <!-- end custom head snippets -->
 
@@ -35,12 +35,12 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://miccolivito.github.io/Rockusa/">Rock-Genre-in-USA</a></h1>
+      <h1><a href="https://miccolivito.github.io/reportfinale-/">Final-Report</a></h1>
       
 
       <html>
 <head>
-  <title>Multiplying Insights with Data Analysis: Exploring USA's Rock Bands</title>
+  <title>All at once: Finale report</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <style>
 body {
@@ -182,27 +182,24 @@ body {
 
 
   <div class="title-box">
-    <h1>Multiplying Insights with Data Analysis: Exploring USA's Rock Bands</h1>
+    <h1>All at Once: Final Report</h1>
   </div>
 
-  <h2><em>Written by: Serena Sciortino, Vito Antonio Miccoli, Gilda Gitto</em></h2>
-  <p class="italic">Get ready for an amazing adventure into the world of rock music in the USA. We'll explore the huge number of bands, the exciting stadiums they perform in, and the talented members that make up these groups. We'll also discover when these bands formed and how their music evolved over time. Along the way, we'll see cool pictures of rock bands and their unique styles. Plus, we'll dive into the story of Guns N' Roses, learning about their band members, hit albums, and when they were released. Get ready to rock out to the incredible music and stories that define American rock!</p>
-
- <h3>Keywords: data journalism, music analysis, rock genre, USA rock bands, insights, Wikidata, Melody.</h3>
-
-  <div class="article">
-    <div class="article-text">
-      <p>
-We went on a thrilling journey to explore American rock music. Using Wikidata and the Melody platform, we wanted to uncover the secret stories behind the thriving rock band scene in the United States. Our journey started with an amazing revelation: Wikidata contained records of a whopping 17,628 music bands in the USA, out of which 633 were classified as rock bands. These numbers clearly demonstrated the significant presence and popularity of rock music across the country. To explore where these rock bands perform, we used the Melody platform and a simple query to create a map showing the locations of stadiums hosting rock concerts. This visual representation gave us a glimpse into the diverse cities and venues that have embraced the power of rock music. To understand when rock bands formed, we used data from Wikidata to generate a captivating line chart. The chart revealed that a significant number of influential bands emerged between 1989 and 2000, followed by another notable wave between 2001 and 2004. These periods marked important milestones in the evolution of American rock music.</p>
-    </div>
-    <div class="article-image">
-      <img src="https://www.virginradio.it/resizer/628/-1/true/guns-1589458517573.png--guns_n__roses__la_vera_storia_di_come_nacque_la_band__le_origini_dell_incontro_tra_axl_rose_e_slash.png?1589458517812" alt="Article Image" />
-    </div>
-  </div>
+  <h2><em>Written by: the coolest guys, fell judged</em></h2>
+ 
 
   <div class="white-box">
-    <p style="font-family: 'Times New Roman', serif;">Next, we focused on some iconic rock bands that have influenced American music. Using the Melody platform, we created a clear bar chart that displayed the number of members in well-known bands like Santana, Guns N' Roses, Journey, Linkin Park, and My Chemical Romance. This visual comparison helped us understand the size and dynamics of these groups. Additionally, we dived deeper into Guns N' Roses, examining their band members and album release dates. By using data from Wikidata and the Melody platform, we created two tables that showcased the names of band members, their birthyear, their associated albums, and release dates. This overview shed light on the evolution and discography of Guns N' Roses. We also compiled a comprehensive table featuring one of the most famous rock bands in the United States, The Red Hot Chili Peppers, along with their band images. This visual compilation provided a glimpse into the unique appearances and distinctive styles of this legendary group. Lastly, we inserted a text search to look for information about each of the members. Through the power of data analysis and the Melody platform, we uncovered fascinating insights about the rock band landscape in the United States. Leveraging Wikidata, we discovered the abundance of rock bands, their performance locations, formation periods, and notable rock legends. Each exploration and visualization added depth and context to the ever-evolving masterpiece of American rock music, leaving us in awe of the creativity, influence, and enduring spirit of this extraordinary genre. Check 
-<a href="https://projects.dharc.unibo.it/melody/1686588464.951175/exploring_rock_bands_in_the_usa"><span style="color:grey"><b>here</b></span></a> and have a first insight of US rock.</p>
+    <p style="font-family: Welcome to the rocking world of this Melody project, undertaken by three UniBo students: Gilda Gitto, Serena Sciortino, and Vito Antonio Miccoli, as part of the course "Information and Technology Skills" by Professor Valentina Presutti.
+This Melody project takes you on an exciting exploration of the rock genre in two diverse regions, the United States of America and Spain. As passionate music enthusiasts, we have explored deeply the historical significance of rock music in these countries.
+Additionally, we created another story to analyse the basis of the rock genre in order to create a link between our two stories. Drawing inspiration from the realm of the Polifonia Corpus and exploring the MusicBo module  we have used data to create three stories.
+Our journey started with a deep dive into the Polifonia Corpus with the Corpus interrogation tool. The Module MusicBo on the Polifonia corpus was used to discover the most common words related to Music. For example: we focused on music bands since the lemma “band” appeared in the corpus in 593 sentences. Very similarly, the lemma “USA” appeared 583 times. So we decided to analyse these sentences and create a story involving music bands in the USA, focusing on the Rock genre because its lemma was associated with 110 words. Since we wanted to explore the rock genre we decided to do a comparison with Spain, which is not as famous as the United States for its rock bands, finding a lemma related to its music: “Spanish” appeared in the MusicBo Module 39 times.
+After the first step, we used FRED’S graph to structure our queries and to obtain properties. Then, we also tapped into the vast knowledge graph of Wikidata, using SPARQL queries to gather a wealth of relevant information. By embracing a data-driven approach, we have developed hypotheses, tested and validated them through the creation of SPARQL queries.
+Our efforts have culminated in the creation of two engaging Melody stories which were the base for our two Data Journalism articles. 
+To make our work accessible to a wider audience, we have published a website on GitHub, providing a platform for music enthusiasts to explore our findings. 
+This project has been an interesting journey but a very difficult one. We have experienced difficulties using FRED because we were not familiar with it and with its graphs, but the initial obstacle to overcome was building queries. Overall, it was difficult because Wikidata is limited and sometimes it did not show the results we expected. However, the most challenging part was using the melody website because sometimes our data got lost due to technical problems, that we managed thanks to the help of a Melody collaborator. However, although the problems we are proud of our project, especially because we are languages students and we did something which was out of our comfort zone. 
+In summary, the Melody project has been an engaging and enriching journey for us as students, allowing us to deepen our understanding of the rock genre in general and of the rock genre in the United States and Spain through the lenses of data analysis and storytelling. Without further ado, we proudly present the articles based on our Melody stories: 
+Discovering Rock Bands in Spain, Discovering Rock Bands in the USA, Rock Music: Behind the Scenes. Thank you for joining us on this captivating adventure.
+
   </div>
 
   <div class="section">
@@ -210,7 +207,6 @@ We went on a thrilling journey to explore American rock music. Using Wikidata an
     <a href="https://projects.dharc.unibo.it/melody/1686588464.951175/exploring_rock_bands_in_the_usa">
        <img src="WhatsApp Image 2023-06-14 at 19.51.38.jpeg" alt="Image 1" width="400" height="250" />
   
-      <img src="WhatsApp Image 2023-06-14 at 19.51.15.jpeg" alt="Image 2" width="400" height="250" /></a>
     </div>
   </div>
 <br />
