@@ -198,7 +198,7 @@ Our efforts have culminated in the creation of two engaging Melody stories which
 To make our work accessible to a wider audience, we have published a website on GitHub, providing a platform for music enthusiasts to explore our findings. 
 This project has been an interesting journey but a very difficult one. We have experienced difficulties using FRED because we were not familiar with it and with its graphs, but the initial obstacle to overcome was building queries. Overall, it was difficult because Wikidata is limited and sometimes it did not show the results we expected. However, the most challenging part was using the melody website because sometimes our data got lost due to technical problems, that we managed thanks to the help of a Melody collaborator. However, although the problems we are proud of our project, especially because we are languages students and we did something which was out of our comfort zone. 
 In summary, the Melody project has been an engaging and enriching journey for us as students, allowing us to deepen our understanding of the rock genre in general and of the rock genre in the United States and Spain through the lenses of data analysis and storytelling. Without further ado, we proudly present the articles based on our Melody stories: 
-Discovering Rock Bands in Spain, Discovering Rock Bands in the USA, Rock Music: Behind the Scenes. Thank you for joining us on this captivating adventure.
+Discovering Rock Bands in Spain, Discovering Rock Bands in the USA, Rock Music: Behind the Scenes. Thank you for joining us on this data adventure.
 
   </div>
 
