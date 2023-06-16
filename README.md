@@ -204,8 +204,7 @@ Discovering Rock Bands in Spain, Discovering Rock Bands in the USA, Rock Music: 
 
   <div class="section">
     <div class="section-image">
-    <a href="https://projects.dharc.unibo.it/melody/1686588464.951175/exploring_rock_bands_in_the_usa">
-       <img src="WhatsApp Image 2023-06-14 at 19.51.38.jpeg" alt="Image 1" width="400" height="250" />
+       <img src="WhatsApp Image 2023-06-16 at 18.07.45.jpeg" alt="Image 1" width="1000" height="600" />
   
     </div>
   </div>
