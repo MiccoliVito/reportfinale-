@@ -73,7 +73,7 @@ body {
 }
 
 .topnav a.active {
-  background-color: #343a90;
+  background-color: #F08080;
   color: white;
 }
 </style>
@@ -89,7 +89,7 @@ body {
     }
 
     .title-box {
-      background-color: #343a90;
+      background-color: #F08080;
       padding: 10px;
       margin-bottom: 20px;
       text-align: center;
@@ -103,7 +103,7 @@ body {
     }
 
     h2 {
-      color: #343a90;
+      color: #F08080;
       font-family: 'Encode Sans Condensed Medium';
       font-size: 20px;
       margin-top: 10px;
@@ -111,7 +111,7 @@ body {
     }
     
      h3 {
-      color: #343a90;
+      color: #F08080;
       font-family: 'Encode Sans Condensed Medium';
       font-size: 16px;
       margin-top: 17px;
@@ -146,7 +146,7 @@ body {
       margin-top: 22px;
       border: 1px solid #DDD;
       padding: 8px;
-      background-color: #FFF;
+      background-color: #F08080;
     }
 
     .section-image img {
