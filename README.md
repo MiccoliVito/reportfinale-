@@ -185,7 +185,7 @@ body {
     <h1>All at Once: Final Report</h1>
   </div>
 
-  <h2><em>Written by: the coolest guys, fell judged</em></h2>
+  <h2><em>Written by: the coolest guys, feel judged</em></h2>
  
 
   <div class="white-box">
