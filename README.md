@@ -204,7 +204,7 @@ Discovering Rock Bands in Spain, Discovering Rock Bands in the USA, Rock Music: 
 
   <div class="section">
     <div class="section-image">
-       <img src="WhatsApp Image 2023-06-16 at 18.07.45.jpeg" alt="Image 1" width="1000" height="600" />
+       <img src="WhatsApp Image 2023-06-16 at 18.07.45.jpeg" alt="Image 1" width="800" height="500" />
   
     </div>
   </div>
